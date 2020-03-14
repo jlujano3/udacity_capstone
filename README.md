@@ -1,5 +1,8 @@
 # udacity_capstone
 
+## Medium Blogpost Link
+https://medium.com/@jlujano/udacity-data-science-capstone-cd0cfa5e64b5
+
 ## Libraries used
 This project takes advantage of standard libraries. Ensure you have these before starting your journey.
 
